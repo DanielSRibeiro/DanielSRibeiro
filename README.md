@@ -2,4 +2,4 @@
 <h6>Sou o Daniel Desenvolvedor Android Nativo</h6>
 <p>Linguagens: Kotlin e Java.</p></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro"/></p>
-<p><img align="right src="https://github-readme-stats.vercel.app/api?username=DanielSRibeiro"/>"</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielSRibeiro"/></p>
