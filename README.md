@@ -3,4 +3,3 @@
 <p>Linguagens: Kotlin e Java</p>
 <p>https://www.linkedin.com/in/danielsanribeiro/</p></br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=DanielSRibeiro"/></p>
