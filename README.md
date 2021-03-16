@@ -2,4 +2,4 @@
 <h2>Olá, Sou Daniel Desenvolvedor Android Nativo</h2>
 <p>Linguagens: Kotlin e Java</p>
 <p>https://www.linkedin.com/in/danielsanribeiro/</p></br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro&layout=compact&hide=html"/></p>
