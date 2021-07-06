@@ -9,4 +9,4 @@ GitHub: https://github.com/DanielSRibeiro
 
 LinKedin: https://www.linkedin.com/in/danielsanribeiro/
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro&layout=compact&hide=html"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro&layout=compact&hide=html&theme=dracula"/></p>
