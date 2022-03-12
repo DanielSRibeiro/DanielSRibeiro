@@ -7,6 +7,6 @@ Ferramenta: Android Studio.
 
 GitHub: https://github.com/DanielSRibeiro
 
-LinKedin: https://www.linkedin.com/in/danielsanribeiro/
+LinKedin: https://www.linkedin.com/in/daniel-santos-ribeiro/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSRibeiro&layout=compact&hide=html&theme=dracula"/></p>
